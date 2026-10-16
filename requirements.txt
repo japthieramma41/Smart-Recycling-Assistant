@@ -1,7 +1,4 @@
-tensorflow>=2.15
-numpy
-scikit-learn
-pillow
 streamlit
 pandas
-plotly
+numpy
+scikit-learn
